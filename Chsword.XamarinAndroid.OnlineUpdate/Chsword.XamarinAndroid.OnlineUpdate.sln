@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chsword.XamarinAndroid.OnlineUpdate", "Chsword.XamarinAndroid.OnlineUpdate.csproj", "{A91EE6EC-A5DB-4791-B811-9C5F394108CC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{38A31B34-CEA6-4A8E-8F3C-409C0A9CE140}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

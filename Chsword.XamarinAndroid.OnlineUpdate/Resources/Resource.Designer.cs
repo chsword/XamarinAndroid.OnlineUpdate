@@ -41,10 +41,25 @@ namespace Chsword.XamarinAndroid.OnlineUpdate
 		{
 			
 			// aapt resource value: 0x7f020001
-			public static int ApplicationName = 2130837505;
+			public static int chsword_current_version = 2130837505;
 			
 			// aapt resource value: 0x7f020000
-			public static int Hello = 2130837504;
+			public static int chsword_latest_version = 2130837504;
+			
+			// aapt resource value: 0x7f020004
+			public static int chsword_update_dialog_cancel = 2130837508;
+			
+			// aapt resource value: 0x7f020003
+			public static int chsword_update_dialog_ok = 2130837507;
+			
+			// aapt resource value: 0x7f020002
+			public static int chsword_update_dialog_title = 2130837506;
+			
+			// aapt resource value: 0x7f020006
+			public static int chsword_update_progress_content = 2130837510;
+			
+			// aapt resource value: 0x7f020005
+			public static int chsword_update_progress_title = 2130837509;
 			
 			static String()
 			{
