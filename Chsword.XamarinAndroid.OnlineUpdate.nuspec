@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Chsword.XamarinAndroid.OnlineUpdate</id>
+        <version>1.0.0.1</version>
+        <title>Chsword.XamarinAndroid.OnlineUpdate</title>
+        <authors>chsword</authors>
+        <owners>zoujian</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/chsword/XamarinAndroid.OnlineUpdate</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Xamarin Android Online Update Utils</description>
+    </metadata>
+    <files>
+        <file src="Chsword.XamarinAndroid.OnlineUpdate\bin\Release\Chsword.XamarinAndroid.OnlineUpdate.dll" target="lib\MonoAndroid\Chsword.XamarinAndroid.OnlineUpdate.dll" />
+    </files>
+</package>
