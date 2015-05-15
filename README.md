@@ -1,5 +1,4 @@
 # XamarinAndroid.OnlineUpdate
-=================
 Xamarin Android Online Update Utils
 
 [![install from nuget](http://img.shields.io/nuget/v/Chsword.Excel2Object.svg?style=flat-square)](https://www.nuget.org/packages/Chsword.XamarinAndroid.OnlineUpdate)
