@@ -11,3 +11,8 @@ Xamarin Android Online Update Utils
 Chsword.XamarinAndroid.OnlineUpdate.UpdateConfig.AlertFunc = Utils.Alert;
 Chsword.XamarinAndroid.OnlineUpdate.UpdateUtils.Update(activity, updateInfo);
 ```
+
+# Install Nuget
+``` powershell
+Install-Package Chsword.XamarinAndroid.OnlineUpdate
+```
